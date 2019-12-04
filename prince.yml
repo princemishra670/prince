@@ -1,0 +1,4 @@
+---
+
+task:
+-command: touch /tmp/prince
